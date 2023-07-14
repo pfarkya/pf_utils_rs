@@ -2,6 +2,8 @@
 name = "pf_utils_rs"
 version = "0.1.0"
 edition = "2021"
+description = "This the library for utils use"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
